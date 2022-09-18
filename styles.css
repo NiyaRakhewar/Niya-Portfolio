@@ -1,16 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
 
 :root {
-  --primary-color: #1cb8e7;
+  --primary-color: #2087a7;
   --off-white: #f3f4f6;
   --dark-gray: #6b7280;
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
-  margin: 0px auto;
-  max-width: 85%;
-  width: 100%;
+    font-family: 'Domine', serif;
+    margin: 0px auto;
+    max-width: 85%;
+    width: 100%;
 }
 
 hr {
